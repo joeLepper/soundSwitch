@@ -1,0 +1,16 @@
+{
+  "author": "Joe Lepper <josephlepepr@gmail.com> (http://joelepper.com)",
+  "name": "soundSwitch",
+  "description": "An app for Raspberry Pi to switch one input with multiple outputs.",
+  "version": "0.0.0",
+  "homepage": "nond",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
